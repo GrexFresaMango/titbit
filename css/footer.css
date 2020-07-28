@@ -1,0 +1,31 @@
+footer .contenedor {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	padding: 0 0 25px 0;
+}
+
+.copy {
+	font: normal 1.5em 'Roboto', sans-serif;
+}
+
+.sociales {
+	width: 100%;
+	text-align: center;
+	font: normal 2em 'Roboto', sans-serif;
+}
+
+.sociales a {
+	color: #333;
+	text-decoration: none;
+}
+
+@media (min-width:768px) {
+	.sociales {
+		width: auto;
+	}
+	footer .contenedor {
+		justify-content: space-between;
+		width: 90%;
+	}
+}

@@ -2,11 +2,10 @@ footer .contenedor {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
-	padding: 0 0 25px 0;
+	padding: 1em 0 1em 0;
 }
 
 .sociales {
-	width: 100%;
 	text-align: center;
 	font: normal 2em 'Roboto', sans-serif;
 }

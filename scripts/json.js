@@ -1,4 +1,4 @@
-[{
+var baseDeDatos = [{
 
 		"id": 1,
 		"nombre": "Desayuno #1",

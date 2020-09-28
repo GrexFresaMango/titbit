@@ -46,7 +46,7 @@ var baseDeDatos = [{
 		"id": 4,
 		"nombre": "Desayuno #4",
 		"description": [
-			"Hotcackes (3pzs) acompañada crujiente tocino (3 tiras)"
+			"Hot cakes (3pzs) acompañada crujiente tocino (3 tiras)"
 		],
 		"precio": 80,
 		"imagen": [

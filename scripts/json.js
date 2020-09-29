@@ -110,7 +110,7 @@ var baseDeDatos = [
 			"https://1.bp.blogspot.com/-N5brCAMfMv8/X3F3oxXYXKI/AAAAAAAA8NY/gOWQHOgONow40sqKo2JvoudsS0-zh2QjgCLcBGAsYHQ/d/item-salad.jpg"
 		],
 		"class": "",
-		"destacado": true,
+		"destacado": false,
 		"valor": 0
 	},
 	{

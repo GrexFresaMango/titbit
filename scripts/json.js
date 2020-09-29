@@ -1,5 +1,6 @@
-var baseDeDatos = [{
-
+var baseDeDatos = [
+	// Primer item
+	{
 		"id": 1,
 		"nombre": "Desayuno #1",
 		"description": [
@@ -13,7 +14,7 @@ var baseDeDatos = [{
 		"destacado": false,
 		"valor": 0
 	},
-
+	// Segundo item
 	{
 		"id": 2,
 		"nombre": "Desayuno #2",
@@ -2102,7 +2103,7 @@ var baseDeDatos = [{
 	},
 	{
 		"id": 151,
-		"nombre": "Vaso de agua de frutas 1.5 l",
+		"nombre": "Vaso de agua de frutas 500ml",
 		"description": [
 			""
 		],
@@ -2116,7 +2117,7 @@ var baseDeDatos = [{
 	},
 	{
 		"id": 152,
-		"nombre": "Vaso de jugo de naranja",
+		"nombre": "Vaso de jugo de naranja 500 ml",
 		"description": [
 			""
 		],

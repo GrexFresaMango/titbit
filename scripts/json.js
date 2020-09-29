@@ -2105,7 +2105,7 @@ var baseDeDatos = [
 		"id": 151,
 		"nombre": "Vaso de agua de frutas 500ml",
 		"description": [
-			""
+			"Vaso de agua de frutas", "500ml"
 		],
 		"precio": 30,
 		"imagen": [

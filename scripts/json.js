@@ -10,7 +10,7 @@ var baseDeDatos = [
 		"imagen": [
 			"https://1.bp.blogspot.com/-0-R2t9FGO_Y/X3FwpDhQjAI/AAAAAAAA8NM/f4FFLi4Kiuo1g2GMUk9IGmUgU_3c69vEACLcBGAsYHQ/d/item-coffe.jpg", "https://1.bp.blogspot.com/-0-R2t9FGO_Y/X3FwpDhQjAI/AAAAAAAA8NM/f4FFLi4Kiuo1g2GMUk9IGmUgU_3c69vEACLcBGAsYHQ/d/item-coffe.jpg"
 		],
-		"class": "fas fa-star",
+		"class": "fas fa-star w3-yellow-text",
 		"destacado": false,
 		"valor": 0
 	},
